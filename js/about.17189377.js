@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_pwa_app"]=self["webpackChunkmy_pwa_app"]||[]).push([[594],{603:function(a,n,u){u.r(n),u.d(n,{default:function(){return i}});var t=u(6768);const e={class:"about"};function r(a,n){return(0,t.uX)(),(0,t.CE)("div",e,n[0]||(n[0]=[(0,t.Lk)("h1",null,"This is an about page",-1)]))}var s=u(1241);const p={},c=(0,s.A)(p,[["render",r]]);var i=c}}]);
+//# sourceMappingURL=about.17189377.js.map
